@@ -1,0 +1,5 @@
+﻿  Bilgi Yarışması.c
+C:\Users\DELL\Desktop\C Projeleri\Bilgi Yarışması\Bilgi Yarışması\Bilgi Yarışması.c(42): warning C4716: 'KayitOlFonksiyonu' : bir değer döndürmelidir
+C:\Users\DELL\Desktop\C Projeleri\Bilgi Yarışması\Bilgi Yarışması\Bilgi Yarışması.c(32): warning C4716: 'GirisYapFonksiyonu' : bir değer döndürmelidir
+C:\Users\DELL\Desktop\C Projeleri\Bilgi Yarışması\Bilgi Yarışması\Bilgi Yarışması.c(110): warning C4716: 'YarismaSonFonksiyonu' : bir değer döndürmelidir
+  Bilgi Yarışması.vcxproj -> C:\Users\DELL\Desktop\C Projeleri\Bilgi Yarışması\x64\Debug\Bilgi Yarışması.exe
