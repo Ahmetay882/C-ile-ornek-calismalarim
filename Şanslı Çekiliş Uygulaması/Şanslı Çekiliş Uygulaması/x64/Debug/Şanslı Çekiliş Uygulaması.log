@@ -1,0 +1,4 @@
+﻿  Şanslı Çekiliş Uygulaması.c
+C:\Users\DELL\Desktop\C Projeleri\Şanslı Çekiliş Uygulaması\Şanslı Çekiliş Uygulaması.c(30,14): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\DELL\Desktop\C Projeleri\Şanslı Çekiliş Uygulaması\Şanslı Çekiliş Uygulaması.c(64,16): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Şanslı Çekiliş Uygulaması.vcxproj -> C:\Users\DELL\Desktop\C Projeleri\Şanslı Çekiliş Uygulaması\x64\Debug\Şanslı Çekiliş Uygulaması.exe
